@@ -1,0 +1,111 @@
+body {
+  margin: 0;
+  padding: 30px;
+  font-family: 'Roboto';
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin: 15px 0;
+  line-height: 1.2;
+}
+
+h1 {
+  font-size: 30px;
+}
+
+h2 {
+  font-size: 26px;
+}
+
+h3 {
+  font-size: 22px;
+}
+
+h4 {
+  font-size: 18px;
+}
+
+h5 {
+  font-size: 16px;
+}
+
+h6 {
+  font-size: 14px;
+}
+
+p {
+  margin: 15px 0;
+}
+
+hr {
+  margin: 30px 0;
+}
+
+.font-large-1 {
+  font-size: 32px;
+}
+
+.font-large-2 {
+  font-size: 2em;
+}
+
+.font-family-1 {
+  font-family: WindSong;
+}
+
+.font-family-2 {
+  font-family: "Indie Flower", sans-serif;
+}
+
+.bold {
+  font-weight: 700;
+}
+
+.italic {
+  font-style: italic;
+}
+
+.line-large {
+  line-height: 30px;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.text-right {
+  text-align: right;
+}
+
+.text-red {
+  color: red;
+}
+
+.text-blue {
+  color: blue;
+}
+
+.uppercase {
+  text-transform: uppercase;
+}
+
+.lowercase {
+  text-transform: lowercase;
+}
+
+.underline {
+  text-decoration: underline;
+}
+
+.custom {
+  font-size: 24px;
+  font-weight: 700;
+  color: green;
+  text-transform: uppercase;
+  text-align: center;
+}
